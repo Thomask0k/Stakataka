@@ -1,6 +1,7 @@
 import express from "express";
 import { connectToDatabase } from "./db";
 import pokemonRouter from "./pokemon";
+import teamsRouter from "./teams";
 import cors from "cors";
 
 const app = express();
@@ -10,8 +11,10 @@ app.use(
     extended: true,
   })
 );
+app.use(express.json());
 app.use(cors());
 app.use("/pokeapi", pokemonRouter);
+app.use("/teams", teamsRouter);
 
 app.get("/", (req, res) => {
   return res.json({
