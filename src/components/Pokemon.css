@@ -1,0 +1,2519 @@
+.card-bg-fire {
+  background: rgba(239, 128, 48, 1);
+}
+
+.card-bg-dark {
+  background: rgba(112, 88, 72, 1);
+}
+
+.card-bg-dragon {
+  background: rgba(239, 128, 48, 1);
+}
+
+.card-bg-electric {
+  background: rgba(248, 207, 48, 1);
+}
+
+.card-bg-fairy {
+  background: rgba(240, 182, 188, 1);
+}
+
+.card-bg-grass {
+  background: rgba(120, 200, 79, 1);
+}
+
+.card-bg-ice {
+  background: rgba(152, 216, 216, 1);
+}
+
+.card-bg-psychic {
+  background: rgba(248, 87, 135, 1);
+}
+
+.card-bg-water {
+  background: rgba(103, 144, 240, 1);
+}
+
+.card-bg-flying {
+  background: rgba(168, 144, 240, 1);
+}
+
+.card-bg-bug {
+  background: rgba(168, 183, 32, 1);
+}
+
+.card-bg-steel {
+  background: rgba(184, 184, 208, 1);
+}
+
+.card-bg-rock {
+  background: rgba(184, 160, 56, 1);
+}
+
+.card-bg-normal {
+  background: rgba(168, 168, 119, 1);
+}
+
+.card-bg-fighting {
+  background: rgba(192, 48, 40, 1);
+}
+
+.card-bg-poison {
+  background: rgba(159, 64, 159, 1);
+}
+
+.card-bg-ground {
+  background: rgba(224, 192, 104, 1);
+}
+
+.card-bg-ghost {
+  background: rgba(112, 88, 152, 1);
+}
+
+.card-bg-fire-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-fire-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-fire-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-fire-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-fire-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-fire-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-fire-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-fire-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-fire-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-fire-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-fire-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-fire-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-fire-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-fire-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-fire-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-fire-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-fire-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-dark-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-dark-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-dark-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-dark-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-dark-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-dark-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-dark-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-dark-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-dark-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-dark-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-dark-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-dark-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-dark-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-dark-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-dark-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-dark-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-dark-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 72, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-dragon-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-dragon-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-dragon-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-dragon-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-dragon-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-dragon-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-dragon-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-dragon-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-dragon-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-dragon-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-dragon-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-dragon-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-dragon-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-dragon-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-dragon-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-dragon-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-dragon-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(239, 128, 48, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-electric-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-electric-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-electric-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-electric-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-electric-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-electric-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-electric-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-electric-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-electric-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-electric-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-electric-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-electric-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-electric-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-electric-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-electric-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-electric-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-electric-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 207, 48, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-fairy-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-fairy-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-fairy-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-fairy-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-fairy-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-fairy-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-fairy-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-fairy-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-fairy-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-fairy-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-fairy-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-fairy-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-fairy-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-fairy-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-fairy-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-fairy-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-fairy-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(240, 182, 188, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-grass-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-grass-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-grass-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-grass-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-grass-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-grass-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-grass-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-grass-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-grass-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-grass-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-grass-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-grass-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-grass-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-grass-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-grass-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-grass-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-grass-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(120, 200, 79, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-ice-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ice-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-ice-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ice-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-ice-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-ice-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-ice-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-ice-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-ice-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-ice-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-ice-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-ice-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-ice-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-ice-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-ice-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-ice-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-ice-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(152, 216, 216, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-psychic-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-psychic-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-psychic-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-psychic-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-psychic-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-psychic-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-psychic-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-psychic-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-psychic-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-psychic-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-psychic-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-psychic-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-psychic-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-psychic-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-psychic-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-psychic-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-psychic-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(248, 87, 135, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-water-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-water-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-water-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-water-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-water-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-water-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-water-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-water-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-water-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-water-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-water-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-water-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-water-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-water-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-water-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-water-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-water-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(103, 144, 240, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-flying-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-flying-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-flying-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-flying-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-flying-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-flying-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-flying-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-flying-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-flying-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-flying-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-flying-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-flying-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-flying-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-flying-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-flying-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-flying-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-flying-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 144, 240, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-bug-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-bug-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-bug-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-bug-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-bug-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-bug-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-bug-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-bug-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-bug-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-bug-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-bug-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-bug-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-bug-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-bug-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-bug-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-bug-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-bug-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 183, 32, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-steel-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-steel-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-steel-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-steel-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-steel-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-steel-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-steel-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-steel-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-steel-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-steel-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-steel-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-steel-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-steel-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-steel-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-steel-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-steel-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-steel-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 184, 208, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-rock-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-rock-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-rock-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-rock-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-rock-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-rock-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-rock-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-rock-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-rock-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-rock-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-rock-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-rock-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-rock-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-rock-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-rock-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-rock-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-rock-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(184, 160, 56, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-normal-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-normal-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-normal-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-normal-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-normal-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-normal-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-normal-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-normal-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-normal-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-normal-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-normal-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-normal-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-normal-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-normal-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-normal-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-normal-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-normal-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(168, 168, 119, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-fighting-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-fighting-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-fighting-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-fighting-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-fighting-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-fighting-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-fighting-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-fighting-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-fighting-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-fighting-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-fighting-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-fighting-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-fighting-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-fighting-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-fighting-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-fighting-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-fighting-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(192, 48, 40, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-poison-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-poison-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-poison-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-poison-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-poison-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-poison-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-poison-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-poison-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-poison-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-poison-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-poison-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-poison-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-poison-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-poison-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-poison-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-poison-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(224, 192, 104, 1)
+  );
+}
+
+.card-bg-poison-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(159, 64, 159, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-ground-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ground-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-ground-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ground-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-ground-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-ground-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-ground-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-ground-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-ground-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-ground-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-ground-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-ground-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-ground-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-ground-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-ground-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-ground-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-ground-ghost {
+  background-image: linear-gradient(
+    45deg,
+    rgba(224, 192, 104, 1),
+    rgba(112, 88, 152, 1)
+  );
+}
+
+.card-bg-ghost-fire {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ghost-dark {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(112, 88, 72, 1)
+  );
+}
+
+.card-bg-ghost-dragon {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(239, 128, 48, 1)
+  );
+}
+
+.card-bg-ghost-electric {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(248, 207, 48, 1)
+  );
+}
+
+.card-bg-ghost-fairy {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(240, 182, 188, 1)
+  );
+}
+
+.card-bg-ghost-grass {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(120, 200, 79, 1)
+  );
+}
+
+.card-bg-ghost-ice {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(152, 216, 216, 1)
+  );
+}
+
+.card-bg-ghost-psychic {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(248, 87, 135, 1)
+  );
+}
+
+.card-bg-ghost-water {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(103, 144, 240, 1)
+  );
+}
+
+.card-bg-ghost-flying {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(168, 144, 240, 1)
+  );
+}
+
+.card-bg-ghost-bug {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(168, 183, 32, 1)
+  );
+}
+
+.card-bg-ghost-steel {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(184, 184, 208, 1)
+  );
+}
+
+.card-bg-ghost-rock {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(184, 160, 56, 1)
+  );
+}
+
+.card-bg-ghost-normal {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(168, 168, 119, 1)
+  );
+}
+
+.card-bg-ghost-fighting {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(192, 48, 40, 1)
+  );
+}
+
+.card-bg-ghost-poison {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(159, 64, 159, 1)
+  );
+}
+
+.card-bg-ghost-ground {
+  background-image: linear-gradient(
+    45deg,
+    rgba(112, 88, 152, 1),
+    rgba(224, 192, 104, 1)
+  );
+}

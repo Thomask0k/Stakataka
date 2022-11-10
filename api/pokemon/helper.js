@@ -12,6 +12,12 @@ export const getPokemon = async () => {
   return data;
 };
 
+export const getPokemonByName = async (name) => {
+  const { data } = await axios.get(`${apiUrl}/pokemon/${name}`, {});
+
+  return data;
+};
+
 export const getItems = async () => {
   const response = await axios.get(`${apiUrl}/item?limit=1607`, {});
 

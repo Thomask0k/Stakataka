@@ -35,7 +35,7 @@ const Pokedex = () => {
       <div>
         <Container>
           <Row>
-            <Col sm={{ span: 5, offset: 6 }} lg={{ span: 4, offset: 7 }}>
+            <Col sm={{ span: 5 }} lg={{ span: 4 }}>
               <Form className="d-flex">
                 <Form.Control
                   type="search"
@@ -48,20 +48,21 @@ const Pokedex = () => {
                   }}
                   aria-label="Search"
                 />
-                <Button variant="outline-success">Search</Button>
               </Form>
             </Col>
           </Row>
+          <Row>
+            {pokemon.length > 0 ? (
+              <>
+                <PokemonList pokemon={pokemon} />
+                <Pagination page={page} lastPage={lastPage} setPage={setPage} />
+              </>
+            ) : (
+              <span>There are no wild Pokémon in the tall grass!</span>
+            )}
+          </Row>
         </Container>
       </div>
-      {pokemon.length > 0 ? (
-        <>
-          <PokemonList pokemon={pokemon} />
-          <Pagination page={page} lastPage={lastPage} setPage={setPage} />
-        </>
-      ) : (
-        <span>There are no wild Pokémon in the tall grass!</span>
-      )}
     </>
   );
 };

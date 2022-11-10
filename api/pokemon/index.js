@@ -1,5 +1,5 @@
 import express from "express";
-import { getPokemon, getItems } from "./helper";
+import { getPokemon, getItems, getPokemonByName } from "./helper";
 import { getOrWrite } from "../utils/get-or-write";
 import pagination from "../utils/paginate";
 
@@ -19,11 +19,20 @@ pokemonRouter.get("/pokemon", async (req, res) => {
 
   if (searchTerm?.length > 0) {
     pokemon = pokemon.filter((p) => {
-      return p.name.includes(searchTerm);
+      return p.name.includes(searchTerm) || p.url.includes(searchTerm);
     });
   }
 
   return res.json(pagination(pokemon, page, limit));
+});
+
+pokemonRouter.get("/pokemon/:name", async (req, res) => {
+  const name = req.params.name;
+  const result = await getOrWrite(`pokemon-${name}.json`, () => {
+    return getPokemonByName(name);
+  });
+
+  return res.json(result);
 });
 
 pokemonRouter.get("/items", async (req, res) => {

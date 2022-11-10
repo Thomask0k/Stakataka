@@ -1,12 +1,12 @@
 import React from "react";
+import Pokemon from "./Pokemon";
+import { Row } from "react-bootstrap";
 
 export default function PokemonList({ pokemon }) {
   return (
     <>
-      {pokemon.map((p, index) => (
-        <div key={p.name}>
-          <a href={p.url}>{p.name}</a>
-        </div>
+      {pokemon.map((p) => (
+        <Pokemon key={p.name} pokemon={p} />
       ))}
     </>
   );
