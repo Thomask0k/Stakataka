@@ -1,17 +1,23 @@
 import express from "express";
 import { connectToDatabase } from "./db";
+import pokemonRouter from "./pokemon";
+import cors from "cors";
 
 const app = express();
+
+app.use(
+  express.urlencoded({
+    extended: true,
+  })
+);
+app.use(cors());
+app.use("/pokeapi", pokemonRouter);
 
 app.get("/", (req, res) => {
   return res.json({
     version: "0.0.1",
     name: "stakataka",
   });
-});
-
-app.get("/hahaha", (req, res) => {
-  return res.send("hahahah");
 });
 
 connectToDatabase()

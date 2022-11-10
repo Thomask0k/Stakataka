@@ -1,11 +1,11 @@
 import "./Layout.css";
 import { Outlet } from "react-router-dom";
+import PokeNavbar from "./components/Navbar";
 
 const Layout = () => {
   return (
     <>
-      <h1>Layout</h1>
-
+      <PokeNavbar></PokeNavbar>
       <Outlet />
     </>
   );
