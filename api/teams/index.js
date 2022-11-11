@@ -34,6 +34,7 @@ teamsRouter.post("/", async ({ body }, res) => {
       message: "Please provide a title",
     });
   }
+
   const team = await createTeam(title);
 
   return res.json(team);
@@ -58,14 +59,6 @@ teamsRouter.put("/:id", async ({ body, params }, res) => {
   if (pokemon.length > 6) {
     return res.status(400).json({
       message: "Could only add 6 pokemon max to a team",
-    });
-  }
-
-  const team = await getTeambyId(id);
-
-  if (team.teamId !== id && team.title === title) {
-    return res.status(404).json({
-      message: "Team already exist with that name",
     });
   }
 

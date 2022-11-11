@@ -35,12 +35,4 @@ pokemonRouter.get("/pokemon/:name", async (req, res) => {
   return res.json(result);
 });
 
-pokemonRouter.get("/items", async (req, res) => {
-  const result = await getOrWrite("all-items.json", () => {
-    return getItems();
-  });
-
-  return res.json(result);
-});
-
 export default pokemonRouter;

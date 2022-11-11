@@ -5,7 +5,6 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./pages/Home/Home";
 import Pokedex from "./pages/Pokedex/Pokedex";
-import Teams from "./pages/Teams/Teams";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -15,7 +14,7 @@ root.render(
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="/pokedex" element={<Pokedex />} />
-          <Route path="/teams" element={<Teams />} />
+          <Route path="/team/:id" element={<Pokedex />} />
         </Route>
       </Routes>
     </BrowserRouter>

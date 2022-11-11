@@ -5,15 +5,22 @@ import { pokemonApiUrl } from "../constants";
 import { Card } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 
-export default function Pokemon({ pokemon }) {
+export default function Pokemon({
+  name,
+  selectable,
+  selected,
+  setSelected,
+  setShowInfoModal,
+  setClickedPokemon,
+}) {
   const [pokemonInformation, setPokemonInformation] = useState(null);
 
   useEffect(() => {
     axios
-      .get(`${pokemonApiUrl}/pokemon/${pokemon.name}`)
+      .get(`${pokemonApiUrl}/pokemon/${name}`)
       .then((response) => response.data)
       .then((pi) => setPokemonInformation(pi));
-  }, [pokemon]);
+  }, [name]);
 
   if (!pokemonInformation) {
     return <></>;
@@ -25,24 +32,31 @@ export default function Pokemon({ pokemon }) {
 
   return (
     <>
-      <Col sm={12} md={6} lg={3} className="mb-2 mt-2">
-        <Card className={`card-bg-${typeClass}`}>
-          <Card.Img
-            variant="top"
-            style={{ maxWidth: "100%" }}
-            src={
-              pokemonInformation.sprites.front_default ||
-              "https://cdn.dribbble.com/users/621155/screenshots/2835314/simple_pokeball.gif"
-            }
-          />
-          <Card.Body>
-            <Card.Title>
-              {pokemonId}
-              {` ${pokemonName.charAt(0).toUpperCase()}${pokemonName.slice(1)}`}
-            </Card.Title>
-          </Card.Body>
-        </Card>
-      </Col>
+      <Card
+        className={`card-bg-${typeClass} ${selected ? "card-selected" : " "}`}
+        onClick={() => {
+          if (selectable) {
+            setSelected(pokemonName);
+          } else {
+            if (setShowInfoModal) setShowInfoModal(true);
+            if (setClickedPokemon) setClickedPokemon(pokemonInformation);
+          }
+        }}
+      >
+        <Card.Img
+          variant="top"
+          src={
+            pokemonInformation.sprites.front_default ||
+            "https://cdn.dribbble.com/users/621155/screenshots/2835314/simple_pokeball.gif"
+          }
+        />
+        <Card.Body>
+          <Card.Title>
+            {pokemonId}
+            {` ${pokemonName.charAt(0).toUpperCase()}${pokemonName.slice(1)}`}
+          </Card.Title>
+        </Card.Body>
+      </Card>
     </>
   );
 }

@@ -1,4 +1,3 @@
-export const apiUrl = `http://${window.location.hostname}:4200`;
+export const apiUrl = `http://localhost:4200`;
 export const pokemonApiUrl = `${apiUrl}/pokeapi`;
-
-console.log(window.location);
+export const teamsApiUrl = `${apiUrl}/teams`;

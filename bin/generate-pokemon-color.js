@@ -3,7 +3,7 @@ const fs = require("fs");
 const colors = {
   fire: "239, 128, 48",
   dark: "112, 88, 72",
-  dragon: "239, 128, 48",
+  dragon: "112, 56, 248",
   electric: "248, 207, 48",
   fairy: "240, 182, 188",
   grass: "120, 200, 79",
