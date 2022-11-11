@@ -30,23 +30,22 @@ const Pagination = ({ lastPage, page, setPage }) => {
         disabled={page <= 1}
         onClick={gotToFirstPage}
       />
-      <img src={minun} style={{ width: "35px" }} />
-      <BootstrapPagination.Prev
-        disabled={page <= 1}
+      <img
+        src={minun}
+        style={{ width: "35px" }}
         onClick={previousPage}
-      />{" "}
-      <BootstrapPagination.Item>
+        disabled={page <= 1}
+      />
+      <BootstrapPagination.Item style={{ fontSize: "20px" }}>
         {page} of {lastPage}
       </BootstrapPagination.Item>
-      <BootstrapPagination.Next
+      <img
+        src={plusle}
+        style={{ width: "35px" }}
         disabled={page >= lastPage}
         onClick={nextPage}
       />
-      <img src={plusle} style={{ width: "35px" }} />
-      <BootstrapPagination.Last
-        disabled={page >= lastPage}
-        onClick={goToLastPage}
-      />
+      <BootstrapPagination.Last disabled={page >= lastPage} />
     </BootstrapPagination>
   );
 };
