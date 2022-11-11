@@ -2,6 +2,7 @@ import React from "react";
 import { Button, Pagination as BootstrapPagination } from "react-bootstrap";
 import plusle from "../assets/plusle.gif";
 import minun from "../assets/minun.gif";
+// import arrowsright from "../assets/arrowsright";
 
 const Pagination = ({ lastPage, page, setPage }) => {
   function gotToFirstPage() {
@@ -36,7 +37,7 @@ const Pagination = ({ lastPage, page, setPage }) => {
         onClick={previousPage}
         disabled={page <= 1}
       />
-      <BootstrapPagination.Item style={{ fontSize: "20px" }}>
+      <BootstrapPagination.Item>
         {page} of {lastPage}
       </BootstrapPagination.Item>
       <img
@@ -45,7 +46,10 @@ const Pagination = ({ lastPage, page, setPage }) => {
         disabled={page >= lastPage}
         onClick={nextPage}
       />
-      <BootstrapPagination.Last disabled={page >= lastPage} />
+      <BootstrapPagination.Last
+        onClick={goToLastPage}
+        disabled={page >= lastPage}
+      />
     </BootstrapPagination>
   );
 };
