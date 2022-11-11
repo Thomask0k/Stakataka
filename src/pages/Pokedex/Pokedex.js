@@ -85,7 +85,9 @@ const Pokedex = () => {
       <div>
         <Container>
           <Row>
-            {team !== null && <span>Selected {selected.length} / 6</span>}
+            {team !== null && (
+              <span class="selected">Selected {selected.length} / 6</span>
+            )}
             <Col sm={{ span: 5, offset: 6 }} lg={{ span: 4, offset: 8 }}>
               {team !== null && (
                 <Button variant="primary" onClick={saveTeam}>

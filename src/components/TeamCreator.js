@@ -36,6 +36,7 @@ const TeamCreator = ({ show, closeModal }) => {
 
               setError(false);
               closeModal(title);
+              setTitle("");
             }}
           >
             Create

@@ -50,17 +50,19 @@ const Home = () => {
       <Container>
         <Row>
           <Col lg={{ span: 3, offset: 9 }} md={{ span: 3, offset: 9 }}>
-            <Button onClick={() => setShow(true)}>Create</Button>
+            <Button className="mt-3" onClick={() => setShow(true)}>
+              Create
+            </Button>
           </Col>
         </Row>
         <Row>
           {teams.length === 0 ? (
-            <>There are currently no teams</>
+            <>You are not yet battle ready!</>
           ) : (
             teams.map((team, index) => {
               return (
                 <Col key={`team-${index}`} lg={12} md={12} sm={12}>
-                  <h1>{team.title}</h1>
+                  <h1 class="selected">{team.title}</h1>
                   <a href={`/team/${team.teamId}`}>
                     <img
                       src={pokeball}
@@ -70,8 +72,9 @@ const Home = () => {
                   <Button
                     variant="danger"
                     onClick={() => deleteTeam(team.teamId)}
+                    classname={"ml-50"}
                   >
-                    Delete
+                    delete
                   </Button>
                   <hr />
                   <Row>

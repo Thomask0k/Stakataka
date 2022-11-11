@@ -1,3 +1,14 @@
 .d-flex {
   margin-top: 20px;
 }
+
+.selected {
+  background: linear-gradient(to right, hsl(0, 100%, 62%), hsl(0, 0%, 0%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Dank Mono", ui-monospace, monospace;
+  font-weight: bold;
+  font-size: 5vmin;
+  line-height: 1.1;
+}
